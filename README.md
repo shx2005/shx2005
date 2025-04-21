@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shx2005
-- 👀 I’m interested in ML 
+- 👀 I’m interested in Dreaming 
 - 📫 How to reach me shx2005@126.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
