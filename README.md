@@ -19,8 +19,3 @@ I'm **孙浩翔(Haoxiang Sun)**, a sophomore majoring in Computer Science & Tech
 - 📧 Email: **[shx2005@126.com](mailto\:shx2005@126.com)**
 - 🌐 GitHub: [github.com/shx2005](https://github.com/shx2005)
 
-## 😄 Pronouns
-
-- **He/Him**
-
-
