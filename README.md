@@ -13,7 +13,6 @@ I'm **孙浩翔(Haoxiang Sun)**, a sophomore majoring in Computer Science & Tech
 ## 🔭 Research Interests
 
 - **Cross-Modal Vision Research**: Exploring the fusion and applications of vision and language models
--
 
 ## 📫 How to Reach Me
 
