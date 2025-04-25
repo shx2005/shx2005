@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @shx2005
 
-I'm **Haoxiang Sun**, a passionate dreamer and a sophomore majoring in Computer Science & Technology at Sichuan University.
+I'm **孙浩翔(Haoxiang Sun)**, a sophomore majoring in Computer Science & Technology at Sichuan University.
 
 ---
 
