@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @shx2005
-- 👀 I’m interested in Dreaming 
-- 📫 How to reach me shx2005@126.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @shx2005
 
-<!---
-shx2005/shx2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm **Haoxiang Sun**, a passionate dreamer and a sophomore majoring in Computer Science & Technology at Sichuan University.
+
+---
+
+## 🌟 About Me
+
+- 🎓 **Sophomore** at Sichuan University, majoring in Computer Science & Technology
+- 🌱 **Researching** at the intersection of Multimodal Large Language Models and Computer Vision
+- 📚 **Welcoming academic collaborators**: Always open to discussing and exchanging ideas with fellow researchers
+
+## 🔭 Research Interests
+
+- **Cross-Modal Vision Research**: Exploring the fusion and applications of vision and language models
+-
+
+## 📫 How to Reach Me
+
+- 📧 Email: **[shx2005@126.com](mailto\:shx2005@126.com)**
+- 🌐 GitHub: [github.com/shx2005](https://github.com/shx2005)
+
+## 😄 Pronouns
+
+- **He/Him**
+
+
